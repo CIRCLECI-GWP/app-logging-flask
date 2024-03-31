@@ -1,6 +1,6 @@
 # Flask Application Logging
 
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/logging-with-flask.svg?style=svg)](https://github.com/CIRCLECI-GWP/logging-with-flask)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/app-logging-flask.svg?style=svg)](https://github.com/CIRCLECI-GWP/app-logging-flask)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
@@ -11,9 +11,9 @@ Flask program for setting Logging and testing logging configuration.
 run the following command on your terminal to clone the repository:
 
 ```bash
-git clone git@github.com:CIRCLECI-GWP/logging-with-flask.git
+git clone git@github.com:CIRCLECI-GWP/app-logging-flask.git
 
-cd logging-with-flask
+cd app-logging-flask
 ```
 
 ## Install the dependencies
